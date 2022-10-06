@@ -6,7 +6,7 @@ Anotações e exemplos desenvolvidos durante os estudos de Orientação a Objeto
 
 ## Autores
 
-- [@mancinilucas](https://www.github.com/mancinilucas)
+- [Lucas Mancini](https://www.github.com/mancinilucas)
 
 
 ## Exercícios/Projetos
